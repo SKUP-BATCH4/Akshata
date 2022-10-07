@@ -1,2 +1,2 @@
-# Akshata
-C programs
+# sumant
+c program
